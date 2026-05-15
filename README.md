@@ -1,6 +1,6 @@
 # Hi, I'm Nooruzma 👋
 
-I'm a beginner developer passionate about **AI and cybersecurity**. Currently learning Python, machine learning, and building projects that combine both worlds.
+I'm a beginner developer passionate about **AI and development**. Currently learning Python, machine learning, and building real-world applications.
 
 - 🔭 Currently working on: AI-powered tools and Python projects
 - 🌱 Learning: Machine learning, APIs, and backend development
@@ -23,7 +23,7 @@ I'm a beginner developer passionate about **AI and cybersecurity**. Currently le
 | Project | Description | Tech |
 |--------|-------------|------|
 | [caesar-cipher-python](https://github.com/Nooruzma-Khan/caesar-cipher-python) | Caesar Cipher encryption & decryption with ASCII logic and edge case handling | Python |
-| [cyber-ai-codebase](https://github.com/Nooruzma-Khan/cyber-ai-codebase) | Exploring the intersection of AI and cybersecurity | Python |
+| [career-guidance-chatbot](https://github.com/Nooruzma-Khan/career-guidance-chatbot) | AI-powered career guidance chatbot built with React, TypeScript and deployed on Vercel | React, TypeScript, AI |
 
 ---
 
