@@ -4,7 +4,7 @@ I'm a beginner developer passionate about **AI and cybersecurity**. Currently le
 
 - 🔭 Currently working on: AI-powered tools and Python projects
 - 🌱 Learning: Machine learning, APIs, and backend development
-- 💡 Interests: Artificial intelligence, cybersecurity, and automation
+- 💡 Interests: Artificial intelligence, Python development, and automation
 - 📫 Reach me at: [knooruzma@gmail.com]
 
 ---
