@@ -29,9 +29,9 @@ I'm a beginner developer passionate about **AI and cybersecurity**. Currently le
 
 ## 📊 GitHub Stats
 
-![Nooruzma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nooruzma-Khan&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooruzma-Khan&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Nooruzma-Khan?style=flat&label=Followers)
+![Stars](https://img.shields.io/github/stars/Nooruzma-Khan?style=flat&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=flat)
 
 ---
 
