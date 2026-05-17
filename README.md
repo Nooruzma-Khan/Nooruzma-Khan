@@ -4,7 +4,7 @@ I'm a beginner developer passionate about **AI and development**. Currently lear
 
 - 🔭 Currently working on: AI-powered tools and Python projects
 - 🌱 Learning: Machine learning, APIs, and backend development
-- 💡 Interests: Artificial intelligence, Python development, and automation
+- 💡 Interests: Artificial intelligence, automation, and building AI-powered applications
 - 📫 Reach me at: [knooruzma@gmail.com]
 
 ---
